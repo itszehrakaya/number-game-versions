@@ -1,0 +1,9 @@
+[submodule "numbergameweb"]
+	path = numbergameweb
+	url = https://github.com/itszehrakaya/numbergameweb.git
+[submodule "numbergame-python"]
+	path = numbergame-python
+	url = https://github.com/itszehrakaya/numbergame-python.git
+[submodule "FirestoreReactNumberGame"]
+	path = FirestoreReactNumberGame
+	url = https://github.com/itszehrakaya/FirestoreReactNumberGame.git
